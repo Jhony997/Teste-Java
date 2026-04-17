@@ -2,6 +2,7 @@ package Boolean;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
+//código antigo totalmente imperativo -> Não escala
 
 public class Binario01Jogo {
     public static void main(String[] args) {
