@@ -1,0 +1,38 @@
+[ DESAFIO 01 : Personagem ARAKATA ]
+
+Base do algoritmo (Nível do bagulho : iniciante total)
+- Nome personagem;
+- partes do corpo;
+- Roupa atual ( herda de uma lista );
+- checar as roupas e escolher;
+- Vários tipo de roupas
+
+[ Pessoa ]
+Nome : Jonas;
+BodyPart head : vazio;
+BodyPart chest : vazio;
+BodyPart legs : vazio;
+BodyPart arms : vazio;
+
+[ Guarda roupas -> Poliomorfismo ? ]
+(Guarda roupas : BodyPart){
+head -> roupas;
+chest -> roupas;
+legs -> roupas;
+arms -> roupas;
+}
+
+[ Roupas -> Herança ]
+* 4 tipo de roupas
+1. Medieval
+2. Moderna
+3. 90s
+4. Espacial
+
+
+[ Anotação ] :
+PONTOS FRACOS
+- Objeto x atributo
+- Depender de texto
+- Iniciar Objeto
+- Centralização de lógica
