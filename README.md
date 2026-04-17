@@ -2,4 +2,4 @@
 
 * Foi a primeira vez que postei um código GitHub.
 * nível de código : [ Iniciante ].
-* As repo é para aprender como funciona só tem coisa aleátoria lá.
+* Esse repositório é só pra treino e testes, então tem bastante coisa aleatória e experimentação.
